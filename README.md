@@ -1,2 +1,2 @@
-# Lightning-Talk-Ideas
+# Lightning Talk Ideas
 - CSS Animations
